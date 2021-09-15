@@ -937,7 +937,6 @@ h1 {
   color: #757575;
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
 }
 .modal-form-label-link {
   color: #2196f3;
@@ -953,9 +952,7 @@ h1 {
   width: 20px;
   height: 20px;
 }
-.modal-form-checkbox-label {
-  margin-top: 10px;
-}
+
 .modal-form-checkbox:checked + .modal-form-checkbox-label::before {
   border-color: var(--touch-color);
   background-color: var(--touch-color);
